@@ -25,8 +25,7 @@
   <a href="mailto:harshpatil223@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  ![](https://dcbadge.vercel.app/api/shield/771081560513576983)
-
+  
   <br>
   <br>
   
