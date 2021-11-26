@@ -8,7 +8,7 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a pursuing my PG Diploma In Computer Application. </br>
 👨‍💻 I am passionate about Web Dev, DevOps & I enjoy learning new things. </br>
-🌱 I’m currently learning Data Structures and Algorithms. </br>
+🌱 I’m currently learning Java + Data Structures and Algorithms. </br>
 
 
 
