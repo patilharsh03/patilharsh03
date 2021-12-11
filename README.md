@@ -3,7 +3,7 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 ## Hi there I'm Harsh Patil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-> **Well done is better than Well said**💪
+> **A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing**
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a pursuing my PG Diploma In Computer Application. </br>
