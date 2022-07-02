@@ -6,7 +6,7 @@
 > **A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing**
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a pursuing my PG Diploma In Computer Application. </br>
+🎓 I’m an Web 3 enthusiast & a pursuing my PG Diploma In Computer Application. </br>
 👨‍💻 I am passionate about Web Dev, Web 3.0 & I enjoy learning new things. </br>
 🌱 I’m currently learning Web 3 and eveyday I try to enhance my web 2 skills. </br>
 
