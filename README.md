@@ -8,7 +8,7 @@
 ### About Me 🚀
 🎓 I’m an Web 3 enthusiast & a pursuing my PG Diploma In Computer Application. </br>
 👨‍💻 I am passionate about Web Dev, Web 3.0 & I enjoy learning new things. </br>
-🌱 I’m currently learning Web 3 and eveyday I try to enhance my web 2 skills. </br>
+🌱 I’m currently learning Web 3 and everyday I try to enhance my web 2 skills. </br>
 
 
 
