@@ -65,12 +65,7 @@
 
 
 <br>
-<p>
-<a><img alt="HarshPatil Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=patilharsh03&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
-</p>
 
-
-<br>
 <a><img src="https://img.shields.io/github/followers/patilharsh03?label=Followers&style=social" alt="GitHub Badge"></a>
 
   ### <h1><p align ="center"> Show Some ❤️ By ⭐ My repositories!</p> </h1>
