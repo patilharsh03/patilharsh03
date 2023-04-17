@@ -73,8 +73,6 @@
 <br>
 <a><img src="https://img.shields.io/github/followers/patilharsh03?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=patilharsh03&color=orange&style=flat-square)
-
   ### <h1><p align ="center"> Show Some ❤️ By ⭐ My repositories!</p> </h1>
 
  
